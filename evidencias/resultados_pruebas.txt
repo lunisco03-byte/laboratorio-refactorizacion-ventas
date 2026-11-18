@@ -1,0 +1,5 @@
+Ejecución real con pytest y coverage.py
+ANTES: 2 pruebas aprobadas; 34 instrucciones, 13 no cubiertas, 62% de cobertura de líneas.
+DESPUÉS: 12 pruebas aprobadas; 19 instrucciones, 0 no cubiertas, 100% de cobertura de líneas.
+Complejidad AST: original {'calcular_total': 16}; refactorizado {'calcular_subtotal': 4, 'porcentaje_descuento': 5, 'calcular_envio': 2, 'calcular_total': 2}
+Advertencia: el número de pruebas difiere, por lo que la cobertura mejoró también gracias a ampliar la batería de pruebas.

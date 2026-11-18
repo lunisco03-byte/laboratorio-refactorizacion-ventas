@@ -1,0 +1,12 @@
+{
+  "metodo": "McCabe aproximado por AST: 1 + if/for/while/ternario/except + operadores booleanos adicionales por funcion",
+  "original": {
+    "calcular_total": 16
+  },
+  "refactorizado": {
+    "calcular_subtotal": 4,
+    "porcentaje_descuento": 5,
+    "calcular_envio": 2,
+    "calcular_total": 2
+  }
+}
